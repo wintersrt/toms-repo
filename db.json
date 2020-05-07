@@ -42,5 +42,8 @@
       "Project Name": "Map Kinase",
       "TA": "Oncology"
     }
-  ]
+  ],
+    "paging": {
+        "total": 7
+    }
 }
