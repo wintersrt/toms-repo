@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "Business Unit ID": "1000",
+      "Business Unit Name": "Analytical Chemistry",
+    },
+    {
+      "Business Unit ID": "1001",
+      "Business Unit Name": "Assay Development",
+    },
+    {
+      "Business Unit ID": "1002",
+      "Business Unit Name": "Assay Screening",
+    },
+    {
+      "Business Unit ID": "1003",
+      "Business Unit Name": "Cancer Biology",
+    },
+    {
+      "Business Unit ID": "1004",
+      "Business Unit Name": "Computer Aided Drug Design",
+    },
+    {
+      "Business Unit ID": "1005",
+      "Business Unit Name": "Discovery Chemistry",
+    },
+    {
+      "Business Unit ID": "1006",
+      "Business Unit Name": "Formulations",
+    },
+    {
+      "Business Unit ID": "1007",
+      "Business Unit Name": "High Throughput Screening",
+    },
+    {
+      "Business Unit ID": "1008",
+      "Business Unit Name": "Preclinical PK/PD",
+    },
+    {
+      "Business Unit ID": "1009",
+      "Business Unit Name": "Process Chemistry",
+    },
+    {
+      "Business Unit ID": "1010",
+      "Business Unit Name": "Radio Chemistry",
+    },
+    {
+      "Business Unit ID": "1011",
+      "Business Unit Name": "Plasmid Production",
+    },
+    {
+      "Business Unit ID": "1012",
+      "Business Unit Name": "Protein Chracterization",
+    },
+    {
+      "Business Unit ID": "1013",
+      "Business Unit Name": "Protein Production",
+    },
+    {
+      "Business Unit ID": "1014",
+      "Business Unit Name": "Toxicology",
+    }
+  ],
+    "paging": {
+        "total": 100
+    }
+}
