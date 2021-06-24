@@ -1,5 +1,4 @@
-{
-  "projects": [
+[
     {
       "id": 1,
       "Project ID": "1000",
@@ -49,4 +48,3 @@
       "TA": "Oncology"
     }
   ]
-}
